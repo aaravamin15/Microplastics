@@ -1,0 +1,317 @@
+Country,Location,Source,Approximate_Latitude,Approximate_Longitude,DOI,Sample_ID,Microplastic_Concentration_L
+Germany,Germany,bottled water,51.1638175,10.4478313,10.1016/j.watres.2017.11.011,1|10.1016/j.watres.2017.11.011,14.0
+Germany,Germany,bottled water,51.1638175,10.4478313,10.1016/j.watres.2017.11.011,2|10.1016/j.watres.2017.11.011,118.0
+Germany,Germany,bottled water,51.1638175,10.4478313,10.1016/j.watres.2017.11.011,3|10.1016/j.watres.2017.11.011,50.0
+Germany,Germany,bottled water,51.1638175,10.4478313,10.1016/j.watres.2017.11.011,4|10.1016/j.watres.2017.11.011,11.0
+Germany,Germany,bottled water,51.1638175,10.4478313,10.1039/c6ay01184e,2|10.1039/c6ay01184e,3.03
+Indonesia,"Jakarta, Indonesia",bottled water,-2.4833826,117.8902853,10.3389/fchem.2018.00407,IB|101119.10.3389/fchem.2018.00407,37.1
+Indonesia,"Bali, Indonesia",bottled water,-2.4833826,117.8902853,10.3389/fchem.2018.00407,BB 311019 08: 11 PSRL6|10.3389/fchem.2018.00407,705.0
+Indonesia,"Medan, Indonesia",bottled water,-2.4833826,117.8902853,10.3389/fchem.2018.00407,BB 311019 09: 50 STB1|10.3389/fchem.2018.00407,404.0
+India,"Chennai, India",bottled water,22.3511148,78.6677428,10.3389/fchem.2018.00407,BN7141A04117|10.3389/fchem.2018.00407,174.0
+India,"Chennai, India",bottled water,22.3511148,78.6677428,10.3389/fchem.2018.00407,HE.B.No 229 (BM/AS)|10.3389/fchem.2018.00407,826.0
+India,"Mumbai, India",bottled water,22.3511148,78.6677428,10.3389/fchem.2018.00407,MU.N.No.298 (MA/AD)|10.3389/fchem.2018.00407,213.0
+India,"New Delhi, India",bottled water,22.3511148,78.6677428,10.3389/fchem.2018.00407,SO.B No.087 (AS/LB)|10.3389/fchem.2018.00407,3.72
+Kenya,"Nairobi, Kenya",bottled water,1.4419683,38.4313975,10.3389/fchem.2018.00407,P18NOV17CG3|10.3389/fchem.2018.00407,74.6
+Mexico,"Mexico City, Mexico",bottled water,23.6585116,-102.0077097,10.3389/fchem.2018.00407,17.11.18|10.3389/fchem.2018.00407,686.0
+Mexico,"Tijuana, Mexico",bottled water,23.6585116,-102.0077097,10.3389/fchem.2018.00407,14.10.18|10.3389/fchem.2018.00407,20.0
+Mexico,"Reynosa, Mexico",bottled water,23.6585116,-102.0077097,10.3389/fchem.2018.00407,09.08.18|10.3389/fchem.2018.00407,37.3
+USA,"Fredonia, NY, USA",bottled water,39.7837304,-100.445882,10.3389/fchem.2018.00407,PRD 05 24 17 11:29|10.3389/fchem.2018.00407,58.2
+USA,"Fredonia, NY, USA",bottled water,39.7837304,-100.445882,10.3389/fchem.2018.00407,07.142018 2|10.3389/fchem.2018.00407,1410.0
+Brazil,"Sao Paulo, Brazil",bottled water,-10.3333333,-53.2,10.3389/fchem.2018.00407,FAB: 211017 09:06SP|10.3389/fchem.2018.00407,40.1
+Brazil,"Aparecida de Goiania, Brazil",bottled water,-10.3333333,-53.2,10.3389/fchem.2018.00407,FAB: 160817 15:05SP|10.3389/fchem.2018.00407,12.5
+Brazil,"Rio de Janerio, Brazil",bottled water,-10.3333333,-53.2,10.3389/fchem.2018.00407,FAB: 091217 16:53SP|10.3389/fchem.2018.00407,150.0
+Lebanon,"Beirut, Lebanon",bottled water,33.8750629,35.843409,10.3389/fchem.2018.00407,P: 4/11/17 03:34 AZ|10.3389/fchem.2018.00407,49.3
+Thailand,"Bangkok, Thailand",bottled water,14.8971921,100.83273,10.3389/fchem.2018.00407,730805210A 23:28|10.3389/fchem.2018.00407,468.0
+China,"Jinan, China",bottled water,35.000074,104.999927,10.3389/fchem.2018.00407,20171102 1214JN|10.3389/fchem.2018.00407,156.0
+China,"Beijing, China",bottled water,35.000074,104.999927,10.3389/fchem.2018.00407,20171021 3214GH|10.3389/fchem.2018.00407,66.7
+China,"Qingdao, China",bottled water,35.000074,104.999927,10.3389/fchem.2018.00407,20171103 2106WF|10.3389/fchem.2018.00407,67.1
+Cuba,"Havana, Cuba",tap water,23.0131338,-80.8328748,10.1371/journal.pone.0194970,Tap Water_Cuba|10.1371/journal.pone.0194970,7.17
+Ecuador,"Quito, Ecuador",tap water,-1.3397668,-79.3666965,10.1371/journal.pone.0194970,Tap Water_Ecuador|10.1371/journal.pone.0194970,4.02
+England,"London, England",tap water,,,10.1371/journal.pone.0194970,Tap Water_England|10.1371/journal.pone.0194970,7.73
+France,"Paris, France",tap water,46.603354,1.8883335,10.1371/journal.pone.0194970,Tap Water_France|10.1371/journal.pone.0194970,1.82
+Germany,"Berlin, Germany; Tubingen, Germany",tap water,51.1638175,10.4478313,10.1371/journal.pone.0194970,Tap Water_Germany|10.1371/journal.pone.0194970,0.91
+India,"Ner Delhi, India",tap water,22.3511148,78.6677428,10.1371/journal.pone.0194970,Tap Water_India|10.1371/journal.pone.0194970,6.24
+Indonesia,"Depok City, Indonesia; Desa Puspanegara, Indonesia; Jakarta, Indonesia; Jatirahayu, Indonesia; Kedaung, Indonesia; Menteng, Indonesia; North Paninggilan, Indonesia; Pasireurih, Indonesia; South Tangerang City, Indonesia; Sukatani, Indonesia; Teluknaga, Indonesia; Warnasari, Indonesia",tap water,-2.4833826,117.8902853,10.1371/journal.pone.0194970,Tap Water_Indonesia|10.1371/journal.pone.0194970,3.23
+Ireland,"Dublin, Ireland",tap water,52.865196,-7.9794599,10.1371/journal.pone.0194970,Tap Water_Ireland|10.1371/journal.pone.0194970,1.83
+Italy,"Pavia, Italy",tap water,42.6384261,12.674297,10.1371/journal.pone.0194970,Tap Water_Italy|10.1371/journal.pone.0194970,0.0
+Lebanon,"Beirut, Lebanon; Burj el Brajneh, Lebanon; Choueifat, Lebanon; Ghobayreh, Lebanon; Khaldeh, Lebanon; Mreijeh, Lebanon",tap water,33.8750629,35.843409,10.1371/journal.pone.0194970,Tap Water_Lebanon|10.1371/journal.pone.0194970,6.64
+Slovakia,"Brezova pod Bradlom, Slovakia; Kocvce, Slovakia; Piestany, Slovakia; Poprad, Slovakia; Prasnik, Slovakia; Radosina, Slovakia; Ruzomberok, Slovakia",tap water,48.7411522,19.4528646,10.1371/journal.pone.0194970,Tap Water_Slovakia|10.1371/journal.pone.0194970,3.83
+Switzerland,"Davos Platz, Switzerland; Gerbertingen, Switzerland",tap water,46.7985624,8.2319736,10.1371/journal.pone.0194970,Tap Water_Switzerland|10.1371/journal.pone.0194970,2.74
+Uganda,"Jinja, Uganda; Kampala, Uganda",tap water,1.5333554,32.2166578,10.1371/journal.pone.0194970,Tap Water_Uganda|10.1371/journal.pone.0194970,3.92
+USA,"Alpena, USA; Buffalo, USA; Chicago, USA; Clayton, USA; Duluth, USA; Glenview, USA; Holland, USA; Lawrence, USA; Los Angeles, USA; Louisville, USA; Mahopack, USA; Middle Village, USA; New York City, USA; Overland Park, USA; Palmetto Bay, USA; Pinebluff, USA; Spring, USA; Washington DC, USA; Wauwatosa, USA",tap water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Tap Water_USA|10.1371/journal.pone.0194970,9.24
+USA,USA,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Bottled Water|10.1371/journal.pone.0194970,3.57
+USA,Lake Superior,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Superior 1|10.1371/journal.pone.0194970,0.67
+USA,Lake Superior,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Superior 2|10.1371/journal.pone.0194970,4.33
+USA,Lake Superior,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Superior 3|10.1371/journal.pone.0194970,3.33
+USA,Lake Michigan,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Michigan 1|10.1371/journal.pone.0194970,1.33
+USA,Lake Michigan,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Michigan 2|10.1371/journal.pone.0194970,0.0
+USA,Lake Michigan,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Michigan 3|10.1371/journal.pone.0194970,14.3
+USA,Lake Michigan,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Michigan 4|10.1371/journal.pone.0194970,2.33
+USA,Lake Huron,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Huron 1|10.1371/journal.pone.0194970,1.33
+USA,Lake Erie,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Erie 1|10.1371/journal.pone.0194970,2.0
+USA,Lake Erie,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Erie 2|10.1371/journal.pone.0194970,3.0
+USA,Lake Ontario,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Ontario 1|10.1371/journal.pone.0194970,8.0
+USA,Lake Ontario,bottled water,39.7837304,-100.445882,10.1371/journal.pone.0194970,Lake Ontario 2|10.1371/journal.pone.0194970,8.0
+Czech Republic,Czech Republic,bottled water,49.7439047,15.3381061,10.1016/j.sciotenv.2018.08.102,Mineral Water.1|10.1016/j.sciotenv.2018.08.178,2649.0
+Czech Republic,Czech Republic,bottled water,49.7439047,15.3381061,10.1016/j.sciotenv.2018.08.102,Mineral Water.2|10.1016/j.sciotenv.2018.08.178,4889.0
+Czech Republic,Czech Republic,bottled water,49.7439047,15.3381061,10.1016/j.sciotenv.2018.08.102,Mineral Water.3|10.1016/j.sciotenv.2018.08.178,6292.0
+Czech Republic,Czech Republic,tap water,49.7439047,15.3381061,10.1016/j.sciotenv.2018.08.102,WTP1_Treated|10.1016/j.sciotenv.2018.08.178,443.0
+Czech Republic,Czech Republic,tap water,49.7439047,15.3381061,10.1016/j.sciotenv.2018.08.102,WTP2_Treated|10.1016/j.sciotenv.2018.08.178,338.0
+Czech Republic,Czech Republic,tap water,49.7439047,15.3381061,10.1016/j.sciotenv.2018.08.102,WTP3_Treated|10.1016/j.sciotenv.2018.08.178,628.0
+Canada,"Ontario, Canada",tap water,61.0666922,-107.991707,10.1016/j.chemosphere.2021.132587,settled|10.1016/j.chemosphere.2021.132587,11.0
+Canada,"Ontario, Canada",tap water,61.0666922,-107.991707,10.1016/j.chemosphere.2021.132588,filtered|10.1016/j.chemosphere.2021.132587,11.0
+Canada,"Ontario, Canada",tap water,61.0666922,-107.991707,10.1016/j.chemosphere.2021.132589,clearwell|10.1016/j.chemosphere.2021.132587,31.0
+Canada,"Ontario, Canada",tap water,61.0666922,-107.991707,10.1016/j.chemosphere.2021.132590,distribution|10.1016/j.chemosphere.2021.132587,20.0
+India,"Chennai, India",tap water,22.3511148,78.6677428,10.18520/cs/v117/i11/1874-1879,C|10.18520/cs/v117/i11/1874-1879,6.0
+India,"Chennai, India",tap water,22.3511148,78.6677428,10.18520/cs/v117/i11/1874-1879,B1|10.18520/cs/v117/i11/1874-1879,5.0
+India,"Chennai, India",tap water,22.3511148,78.6677428,10.18520/cs/v117/i11/1874-1879,B2|10.18520/cs/v117/i11/1874-1879,5.0
+India,"Chennai, India",tap water,22.3511148,78.6677428,10.18520/cs/v117/i11/1874-1879,B3|10.18520/cs/v117/i11/1874-1879,5.0
+India,"Chennai, India",tap water,22.3511148,78.6677428,10.18520/cs/v117/i11/1874-1879,B4|10.18520/cs/v117/i11/1874-1879,5.0
+India,"Chennai, India",tap water,22.3511148,78.6677428,10.18520/cs/v117/i11/1874-1879,B5|10.18520/cs/v117/i11/1874-1879,2.0
+Czech Republic,Czech Republic,tap water,49.7439047,15.3381061,10.11001/jksww.2020.34.5.357,Czech_Milence_DWTP|10.11001/jksww.2020.34.5.357,14.0
+Czech Republic,Czech Republic,tap water,49.7439047,15.3381061,10.11001/jksww.2020.34.5.357,Czech_Plzen_DWTP|10.11001/jksww.2020.34.5.357,151.0
+France,France,tap water,46.603354,1.8883335,10.1016/j.cej.2020.128381,France|10.1016/j.cej.2020.128381,32.0
+Finland,Finland,tap water,63.2467777,25.9209164,10.1016/j.cej.2020.128381,Finland|10.1016/j.cej.2020.128381,1.0
+Finland,Finland,tap water,63.2467777,25.9209164,10.1016/j.cej.2020.128381,Finland|10.1016/j.cej.2020.128381,0.4
+China,China,tap water,35.000074,104.999927,10.1016/j.cej.2020.128381,China|10.1016/j.cej.2020.128381,0.14
+China,China,tap water,35.000074,104.999927,10.1016/j.cej.2020.128381,China|10.1016/j.cej.2020.128381,0.06
+Korea,Korea,tap water,36.638392,127.6961188,10.1016/j.cej.2020.128381,Korea|10.1016/j.cej.2020.128381,0.4
+Korea,Korea,tap water,36.638392,127.6961188,10.1016/j.cej.2020.128381,Korea|10.1016/j.cej.2020.128381,0.1
+Korea,Korea,tap water,36.638392,127.6961188,10.1016/j.cej.2020.128381,Korea|10.1016/j.cej.2020.128381,0.3
+Finland,Finland,tap water,63.2467777,25.9209164,10.1016/j.cej.2020.128381,Finland2|10.1016/j.cej.2020.128381,2.5
+Hong Kong,Hong Kong,tap water,,,10.1016/j.cej.2020.128381,HongKong|10.1016/j.cej.2020.128381,0.4
+Hong Kong,Hong Kong,tap water,,,10.1016/j.cej.2020.128381,HongKong|10.1016/j.cej.2020.128381,0.27
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates|10.1016/j.cej.2020.128381,0.0008
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates|10.1016/j.cej.2020.128381,2.43e-06
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates2|10.1016/j.cej.2020.128381,0.009
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates2|10.1016/j.cej.2020.128381,0.019
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates2|10.1016/j.cej.2020.128381,0.047
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates2|10.1016/j.cej.2020.128381,0.064
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates2|10.1016/j.cej.2020.128381,0.092
+USA,United States,tap water,39.7837304,-100.445882,10.1016/j.cej.2020.128381,UnitedStates2|10.1016/j.cej.2020.128381,0.127
+India,"Ganga River, India",tap water,22.3511148,78.6677428,10.1007/s11783-021-1492-5,Sarkar|10.1007/s11783-021-1492-5,2.75
+Spain,Spain,tap water,39.3260685,-4.8379791,10.1007/s11783-021-1492-5,Dalmau-Soler|10.1007/s11783-021-1492-5,0.07
+China,China,tap water,35.000074,104.999927,10.1016/j.envres.2022.112855,AverageAll|10.1016/j.envres.2022.112855,29.0
+Iran,Tehran,tap water,32.6475314,54.5643516,10.21203/rs.3.rs-242504/v1,DWTP1|10.21203/rs.3.rs-242504/v1,1401.0
+Iran,Tehran,tap water,32.6475314,54.5643516,10.21203/rs.3.rs-242504/v1,DWTP2|10.21203/rs.3.rs-242504/v1,1042.0
+Iran,Tehran,tap water,32.6475314,54.5643516,10.21203/rs.3.rs-242504/v1,DWTP3|10.21203/rs.3.rs-242504/v1,971.0
+Germany,Germany,tap water,51.1638175,10.4478313,10.1016/j.sciotenv.2020.143421,1|10.1016/j.sciotenv.2020.143421,0.0
+Mexico,"Mexico City, Mexico; Transport Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,1|10.1016/j.envpol.2020.114227,20.0
+Mexico,"Mexico City, Mexico; Market Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,2|10.1016/j.envpol.2020.114227,13.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,3|10.1016/j.envpol.2020.114227,17.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,4|10.1016/j.envpol.2020.114227,14.0
+Mexico,"Mexico City, Mexico; Commercial Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,5|10.1016/j.envpol.2020.114227,60.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,6|10.1016/j.envpol.2020.114227,13.0
+Mexico,"Mexico City, Mexico; Transport Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,7|10.1016/j.envpol.2020.114227,15.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,8|10.1016/j.envpol.2020.114227,18.0
+Mexico,"Mexico City, Mexico; Market Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,9|10.1016/j.envpol.2020.114227,37.0
+Mexico,"Mexico City, Mexico; Tourism Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,10|10.1016/j.envpol.2020.114227,34.0
+Mexico,"Mexico City, Mexico; Tourism Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,11|10.1016/j.envpol.2020.114227,38.0
+Mexico,"Mexico City, Mexico; Tourism Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,12|10.1016/j.envpol.2020.114227,60.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,13|10.1016/j.envpol.2020.114227,7.0
+Mexico,"Mexico City, Mexico; Transport Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,14|10.1016/j.envpol.2020.114227,25.0
+Mexico,"Mexico City, Mexico; Transport Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,15|10.1016/j.envpol.2020.114227,22.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,16|10.1016/j.envpol.2020.114227,15.0
+Mexico,"Mexico City, Mexico; Hospital Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,17|10.1016/j.envpol.2020.114227,7.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,18|10.1016/j.envpol.2020.114227,37.0
+Mexico,"Mexico City, Mexico; Hospital Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,19|10.1016/j.envpol.2020.114227,9.0
+Mexico,"Mexico City, Mexico; Commercial Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,20|10.1016/j.envpol.2020.114227,6.0
+Mexico,"Mexico City, Mexico; Recreation Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,21|10.1016/j.envpol.2020.114227,7.0
+Mexico,"Mexico City, Mexico; Education Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,22|10.1016/j.envpol.2020.114227,8.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,23|10.1016/j.envpol.2020.114227,14.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,24|10.1016/j.envpol.2020.114227,8.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,25|10.1016/j.envpol.2020.114227,8.0
+Mexico,"Mexico City, Mexico; Market Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,26|10.1016/j.envpol.2020.114227,7.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,27|10.1016/j.envpol.2020.114227,13.0
+Mexico,"Mexico City, Mexico; Education Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,28|10.1016/j.envpol.2020.114227,8.0
+Mexico,"Mexico City, Mexico; Transport Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,29|10.1016/j.envpol.2020.114227,6.0
+Mexico,"Mexico City, Mexico; Transport Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,30|10.1016/j.envpol.2020.114227,10.0
+Mexico,"Mexico City, Mexico; Commercial Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,31|10.1016/j.envpol.2020.114227,23.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,32|10.1016/j.envpol.2020.114227,15.0
+Mexico,"Mexico City, Mexico; Education Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,33|10.1016/j.envpol.2020.114227,13.0
+Mexico,"Mexico City, Mexico; Recreation Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,34|10.1016/j.envpol.2020.114227,9.0
+Mexico,"Mexico City, Mexico; Tourism Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,35|10.1016/j.envpol.2020.114227,10.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,36|10.1016/j.envpol.2020.114227,28.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,37|10.1016/j.envpol.2020.114227,5.0
+Mexico,"Mexico City, Mexico; Education Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,38|10.1016/j.envpol.2020.114227,8.0
+Mexico,"Mexico City, Mexico; Commercial Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,39|10.1016/j.envpol.2020.114227,10.0
+Mexico,"Mexico City, Mexico; Commercial Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,40|10.1016/j.envpol.2020.114227,7.0
+Mexico,"Mexico City, Mexico; Commercial Zone",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,41|10.1016/j.envpol.2020.114227,7.0
+Mexico,"Mexico City, Mexico",tap water,23.6585116,-102.0077097,10.1016/j.envpol.2020.114227,42|10.1016/j.envpol.2020.114227,91.0
+Brazil,"Sinos River Basin, Rio Grande, Brazil",tap water,-10.3333333,-53.2,10.3390/w12113115,drinking_water|10.3390/w12113115,105.8
+Czech Republic,"Uhlava River, Czech Republic",tap water,49.7439047,15.3381061,10.1016/j.cotox.2021.09.003,Pivokonsky1|10.1016/j.cotox.2021.09.003,338.0
+Czech Republic,"Reservoir Water, Czech Republic",tap water,49.7439047,15.3381061,10.1016/j.cotox.2021.09.003,Pivokonsky2|10.1016/j.cotox.2021.09.003,151.0
+Germany,"Llobregat River Basin, Germany",tap water,51.1638175,10.4478313,10.1007/s11356-021-13220-1,Raw|10.1007/s11356-021-13220-1,1.0
+Germany,"Llobregat River Basin, Germany",tap water,51.1638175,10.4478313,10.1007/s11356-021-13220-1,Sand|10.1007/s11356-021-13220-1,0.2
+Germany,"Llobregat River Basin, Germany",tap water,51.1638175,10.4478313,10.1007/s11356-021-13220-1,GAC|10.1007/s11356-021-13220-1,0.2
+Germany,"Llobregat River Basin, Germany",tap water,51.1638175,10.4478313,10.1007/s11356-021-13220-1,Reverse_Osmosis|10.1007/s11356-021-13220-1,0.1
+Germany,"Llobregat River Basin, Germany",tap water,51.1638175,10.4478313,10.1007/s11356-021-13220-1,Finished|10.1007/s11356-021-13220-1,0.1
+Australia,Australia,tap water,-24.7761086,134.755,10.3390/app112110109,Australia1|10.3390/app112110109,1.5
+Australia,Australia,tap water,-24.7761086,134.755,10.3390/app112110109,Australia2|10.3390/app112110109,0.48
+Australia,Australia,tap water,-24.7761086,134.755,10.3390/app112110109,Australia3|10.3390/app112110109,0.28
+Australia,Australia,tap water,-24.7761086,134.755,10.3390/app112110109,Australia4|10.3390/app112110109,0.18
+Australia,Australia,tap water,-24.7761086,134.755,10.3390/app112110109,Australia5|10.3390/app112110109,0.96
+Australia,Australia,tap water,-24.7761086,134.755,10.3390/app112110109,Australia6|10.3390/app112110109,0.91
+Australia,Australia,tap water,-24.7761086,134.755,10.3390/app112110109,Australia7|10.3390/app112110109,2.76
+Canada,Canada,tap water,61.0666922,-107.991707,10.3390/app112110109,Canada1|10.3390/app112110109,0.5
+Canada,Canada,tap water,61.0666922,-107.991707,10.3390/app112110109,Canada2|10.3390/app112110109,1.76
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China1|10.3390/app112110109,28.4
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China2|10.3390/app112110109,0.13
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China3|10.3390/app112110109,0.05
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China4|10.3390/app112110109,2.7
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China5|10.3390/app112110109,0.3
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China6|10.3390/app112110109,0.6
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China7|10.3390/app112110109,0.59
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China8|10.3390/app112110109,0.59
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China9|10.3390/app112110109,30.6
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China10|10.3390/app112110109,1.72
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China11|10.3390/app112110109,22.9
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China12|10.3390/app112110109,2.9
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China13|10.3390/app112110109,7.9
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China14|10.3390/app112110109,30.3
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China15|10.3390/app112110109,14.3
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China16|10.3390/app112110109,8.25
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China17|10.3390/app112110109,0.24
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China18|10.3390/app112110109,0.34
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China19|10.3390/app112110109,20.96
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China20|10.3390/app112110109,31.85
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China21|10.3390/app112110109,40.67
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China22|10.3390/app112110109,20.44
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China23|10.3390/app112110109,0.78
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China24|10.3390/app112110109,0.62
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China25|10.3390/app112110109,0.1
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China26|10.3390/app112110109,0.07
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China27|10.3390/app112110109,0.0
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China28|10.3390/app112110109,0.0
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China29|10.3390/app112110109,400.0
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China30|10.3390/app112110109,750.0
+China,China,tap water,35.000074,104.999927,10.3390/app112110109,China31|10.3390/app112110109,300.0
+Denmark,Denmark,tap water,55.670249,10.3333283,10.3390/app112110109,Denmark1|10.3390/app112110109,120.3
+Finland,Finland,tap water,63.2467777,25.9209164,10.3390/app112110109,Finland1|10.3390/app112110109,1.05
+Finland,Finland,tap water,63.2467777,25.9209164,10.3390/app112110109,Finland2|10.3390/app112110109,13.5
+Finland,Finland,tap water,63.2467777,25.9209164,10.3390/app112110109,Finland3|10.3390/app112110109,0.03
+Finland,Finland,tap water,63.2467777,25.9209164,10.3390/app112110109,Finland4|10.3390/app112110109,0.005
+Finland,Finland,tap water,63.2467777,25.9209164,10.3390/app112110109,Finland5|10.3390/app112110109,0.1
+Finland,Finland,tap water,63.2467777,25.9209164,10.3390/app112110109,Finland6|10.3390/app112110109,0.02
+Finland,Finland,tap water,63.2467777,25.9209164,10.3390/app112110109,Finland7|10.3390/app112110109,6.84
+France,France,tap water,46.603354,1.8883335,10.3390/app112110109,France1|10.3390/app112110109,35.0
+France,France,tap water,46.603354,1.8883335,10.3390/app112110109,France2|10.3390/app112110109,2.84
+Germany,Germany,tap water,51.1638175,10.4478313,10.3390/app112110109,Germany1|10.3390/app112110109,1.82
+Germany,Germany,tap water,51.1638175,10.4478313,10.3390/app112110109,Germany2|10.3390/app112110109,5.9
+Germany,Germany,tap water,51.1638175,10.4478313,10.3390/app112110109,Germany3|10.3390/app112110109,3.0
+Germany,Germany,tap water,51.1638175,10.4478313,10.3390/app112110109,Germany4|10.3390/app112110109,7.0
+Germany,Germany,tap water,51.1638175,10.4478313,10.3390/app112110109,Germany5|10.3390/app112110109,14.0
+China,Hong Kong,tap water,35.000074,104.999927,10.3390/app112110109,HingKong1|10.3390/app112110109,0.27
+China,Hong Kong,tap water,35.000074,104.999927,10.3390/app112110109,HingKong2|10.3390/app112110109,0.4
+Iran,Iran,tap water,32.6475314,54.5643516,10.3390/app112110109,Iran1|10.3390/app112110109,0.42
+Iran,Iran,tap water,32.6475314,54.5643516,10.3390/app112110109,Iran2|10.3390/app112110109,1.91
+Iran,Iran,tap water,32.6475314,54.5643516,10.3390/app112110109,Iran3|10.3390/app112110109,2.11
+Iran,Iran,tap water,32.6475314,54.5643516,10.3390/app112110109,Iran4|10.3390/app112110109,0.58
+Israel,Israel,tap water,30.8124247,34.8594762,10.3390/app112110109,Israel1|10.3390/app112110109,1.97
+Israel,Israel,tap water,30.8124247,34.8594762,10.3390/app112110109,Israel2|10.3390/app112110109,7.3
+Italy,Italy,tap water,42.6384261,12.674297,10.3390/app112110109,Italy1|10.3390/app112110109,0.4
+Italy,Italy,tap water,42.6384261,12.674297,10.3390/app112110109,Italy2|10.3390/app112110109,0.52
+Italy,Italy,tap water,42.6384261,12.674297,10.3390/app112110109,Italy3|10.3390/app112110109,0.2
+Korea,Korea,tap water,36.638392,127.6961188,10.3390/app112110109,Korea1|10.3390/app112110109,0.44
+Korea,Korea,tap water,36.638392,127.6961188,10.3390/app112110109,Korea2|10.3390/app112110109,0.14
+Korea,Korea,tap water,36.638392,127.6961188,10.3390/app112110109,Korea3|10.3390/app112110109,0.28
+Korea,Korea,tap water,36.638392,127.6961188,10.3390/app112110109,Korea4|10.3390/app112110109,0.11
+Netherlands,Netherlands,tap water,52.24764975,5.541246849,10.3390/app112110109,Netherlands1|10.3390/app112110109,39.0
+Netherlands,Netherlands,tap water,52.24764975,5.541246849,10.3390/app112110109,Netherlands2|10.3390/app112110109,61.0
+Netherlands,Netherlands,tap water,52.24764975,5.541246849,10.3390/app112110109,Netherlands3|10.3390/app112110109,65.0
+Netherlands,Netherlands,tap water,52.24764975,5.541246849,10.3390/app112110109,Netherlands4|10.3390/app112110109,81.0
+Netherlands,Netherlands,tap water,52.24764975,5.541246849,10.3390/app112110109,Netherlands5|10.3390/app112110109,56.0
+Netherlands,Netherlands,tap water,52.24764975,5.541246849,10.3390/app112110109,Netherlands6|10.3390/app112110109,55.0
+Netherlands,Netherlands,tap water,52.24764975,5.541246849,10.3390/app112110109,Netherlands7|10.3390/app112110109,55.0
+Poland,Poland,tap water,52.215933,19.134422,10.3390/app112110109,Poland1|10.3390/app112110109,0.34
+Russia,Russia,tap water,64.6863136,97.7453061,10.3390/app112110109,Russia1|10.3390/app112110109,148.0
+Scotland,Scotland,tap water,,,10.3390/app112110109,Scotland1|10.3390/app112110109,0.25
+Scotland,Scotland,tap water,,,10.3390/app112110109,Scotland2|10.3390/app112110109,1.0
+South Korea,South Korea,tap water,36.638392,127.6961188,10.3390/app112110109,SouthKorea1|10.3390/app112110109,49.0
+South Korea,South Korea,tap water,36.638392,127.6961188,10.3390/app112110109,SouthKorea2|10.3390/app112110109,33.0
+South Korea,South Korea,tap water,36.638392,127.6961188,10.3390/app112110109,SouthKorea3|10.3390/app112110109,297.0
+South Korea,South Korea,tap water,36.638392,127.6961188,10.3390/app112110109,SouthKorea4|10.3390/app112110109,66.0
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain1|10.3390/app112110109,0.31
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain2|10.3390/app112110109,0.44
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain3|10.3390/app112110109,0.92
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain4|10.3390/app112110109,1.08
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain5|10.3390/app112110109,12.8
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain6|10.3390/app112110109,41.77
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain7|10.3390/app112110109,16.4
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain8|10.3390/app112110109,131.36
+Spain,Spain,tap water,39.3260685,-4.8379791,10.3390/app112110109,Spain9|10.3390/app112110109,0.98
+Sweden,Sweden,tap water,59.6749712,14.5208584,10.3390/app112110109,Sweden1|10.3390/app112110109,4.0
+Sweden,Sweden,tap water,59.6749712,14.5208584,10.3390/app112110109,Sweden2|10.3390/app112110109,0.008
+Thailand,Thailand,tap water,14.8971921,100.83273,10.3390/app112110109,Thailand1|10.3390/app112110109,2.0
+Turkey,Turkey,tap water,38.9597594,34.9249653,10.3390/app112110109,Turkey1|10.3390/app112110109,7.0
+Turkey,Turkey,tap water,38.9597594,34.9249653,10.3390/app112110109,Turkey2|10.3390/app112110109,4.11
+Turkey,Turkey,tap water,38.9597594,34.9249653,10.3390/app112110109,Turkey3|10.3390/app112110109,1.6
+Turkey,Turkey,tap water,38.9597594,34.9249653,10.3390/app112110109,Turkey4|10.3390/app112110109,0.7
+Turkey,Turkey,tap water,38.9597594,34.9249653,10.3390/app112110109,Turkey5|10.3390/app112110109,0.6
+UK,UK,tap water,54.7023545,-3.2765753,10.3390/app112110109,UK1|10.3390/app112110109,15.7
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA1|10.3390/app112110109,3.7
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA2|10.3390/app112110109,17.6
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA3|10.3390/app112110109,17.2
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA4|10.3390/app112110109,0.09
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA5|10.3390/app112110109,0.05
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA6|10.3390/app112110109,5.9
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA7|10.3390/app112110109,2.6
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA8|10.3390/app112110109,0.098
+USA,USA,tap water,39.7837304,-100.445882,10.3390/app112110109,USA9|10.3390/app112110109,0.00088
+India,"Kolkata, India",tap water,22.3511148,78.6677428,10.1016/j.jhazmat.2021.125347,27.11.2019|10.1016/j.jhazmat.2021.125347,2.71
+India,"Kolkata, India",tap water,22.3511148,78.6677428,10.1016/j.jhazmat.2021.125347,21.12.2019|10.1016/j.jhazmat.2021.125347,2.56
+India,"Kolkata, India",tap water,22.3511148,78.6677428,10.1016/j.jhazmat.2021.125347,22.01.2020|10.1016/j.jhazmat.2021.125347,2.4
+India,"Kolkata, India",tap water,22.3511148,78.6677428,10.1016/j.jhazmat.2021.125347,19.02.2020|10.1016/j.jhazmat.2021.125347,2.85
+India,"Kolkata, India",tap water,22.3511148,78.6677428,10.1016/j.jhazmat.2021.125347,16.03.2020|10.1016/j.jhazmat.2021.125347,3.23
+Czech Republic,"Uhlava River, Czech Republic",tap water,49.7439047,15.3381061,10.1016/j.scitotenv.2020.140236,Milence|10.1016/j.scitotenv.2020.140236,2.8
+Czech Republic,"Uhlava River, Czech Republic",tap water,49.7439047,15.3381061,10.1016/j.scitotenv.2020.140236,Milence|10.1016/j.scitotenv.2020.140236,17.0
+Czech Republic,"Uhlava River, Czech Republic",tap water,49.7439047,15.3381061,10.1016/j.scitotenv.2020.140236,Plzen|10.1016/j.scitotenv.2020.140236,12.0
+Czech Republic,"Uhlava River, Czech Republic",tap water,49.7439047,15.3381061,10.1016/j.scitotenv.2020.140236,Plzen|10.1016/j.scitotenv.2020.140236,180.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,125.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,0.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,872.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,499.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,499.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,748.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,1247.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,623.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,499.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,125.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,499.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,499.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,0.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,1247.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,623.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,499.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,499.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,748.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,623.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,374.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,249.0
+China,China,tap water,35.000074,104.999927,10.1016/j.chemosphere.2020.126493,A|10.1016/j.chemosphere.2020.126493,748.0
+China,"Yangtze River, China",tap water,35.000074,104.999927,10.1016/j.scitotenv.2019.134520,Finished|10.1016/j.scitotenv.2019.134520,930.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,April_DWTP|10.1007/s11356-021-13769-x,282.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,April_Tap|10.1007/s11356-021-13769-x,267.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,May_DWTP|10.1007/s11356-021-13769-x,338.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,May_Tap|10.1007/s11356-021-13769-x,321.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,June_DWTP|10.1007/s11356-021-13769-x,388.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,June_Tap|10.1007/s11356-021-13769-x,381.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,July_DWTP|10.1007/s11356-021-13769-x,400.0
+China,XiangJiang River,tap water,35.000074,104.999927,10.1007/s11356-021-13769-x,July_Tap|10.1007/s11356-021-13769-x,405.0
+South Korea,South Korea,tap water,36.638392,127.6961188,10.1016/j.scitotenv.2022.154015,1|10.1016/j.scitotenv.2022.154015,0.2
